@@ -1,2 +1,2 @@
 # telemin
-a
+Miningl ltc,doge,bitcoin and more with telegram
